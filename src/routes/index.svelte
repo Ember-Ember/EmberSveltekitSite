@@ -1,2 +1,2 @@
 <h1>among</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<p>Your website is in a different castle (unfinished, this is the site <a href="https://emberdev.me">emberdev.me</a>)</p>

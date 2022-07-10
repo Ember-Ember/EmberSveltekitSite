@@ -8,7 +8,11 @@ const config = {
 	preprocess: preprocess(),
 
 	kit: {
-		adapter: adapter({ out: 'build/' })
+		adapter: adapter({
+      // default options are shown
+      out: 'build',
+      //deps: './deps.ts' // (relative to adapter-deno package)
+    })
 	}
 };
 
